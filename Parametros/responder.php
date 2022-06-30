@@ -1,0 +1,10 @@
+<?php
+
+$usuario;
+$puntos;
+
+
+
+
+
+?>
